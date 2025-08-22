@@ -1,4 +1,5 @@
-https://avatars.mds.yandex.net/i?id=ac61adc9b630b5c8cc7309f0a73c85299b16fa04-4948148-images-thumbs&n=13
+<img src="https://avatars.githubusercontent.com/u/184970233?v=4&size=1000" alt="urasdogufirat2016" />
+<img src="https://avatars.mds.yandex.net/i?id=4eadb83bbe839d4ddb87807d8a822c675edc50ca-12658900-images-thumbs&n=13" alt="urasdogufirat2016" />
 
 <h1 align="center">Merhaba 👋, ben UrasDoguFirat2016</h1>
 <h3 align="center">Türkiyeliyim.</h3>
