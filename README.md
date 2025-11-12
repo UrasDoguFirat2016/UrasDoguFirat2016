@@ -1,8 +1,8 @@
- <div align="center"><strong>Hi, I'm Ahmet Batuhan Yiğit — Senior Front-End & WordPress Developer 👨‍💻 working remotely since 2019 🚀</strong></div>
+ <div align="center"><strong>Hi, I'm Uras Doğu Fırat — Senior Front-End & WordPress Developer 👨‍💻 working remotely since 2019 🚀</strong></div>
 
 <p align="center">
   <!-- Yazma animasyonu -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=4BC3F7&center=true&vCenter=true&width=900&lines=Senior+Front-End+%26+WordPress+Developer;Delivering+High-Impact%2C+Scalable+Digital+Experiences;React%2C+Shopify%2C+Next.js%2C+TypeScript+%26+WordPress" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=4BC3F7&center=true&vCenter=true&width=900&lines=I+love+Pyt%68on+and+P%68p;Yeah%68+it+is+true;I+love+Alla%68;" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,25 +11,25 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React%20Expert-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js%20Specialist-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress%20Senior-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript%20Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shopify%20Pro-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP%20Advanced-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript%20Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/JavaScript%20Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5%20Master-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3%20Master-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/C++%20Advanced-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23%20Professional-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+
 </p>
 
 ---
 
 <h3 align="center">📬 Connect with Me</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/batuhan-yiğit-19b67a149" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://sites.google.com/view/fransa-com" target="_blank">
+    <img src="https://img.shields.io/badge/Site-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="UDF"/>
   </a>
   &nbsp;&nbsp;
-  <a href="abatuhanyigitt@gmail.com">
-    <img src="https://img.shields.io/badge/Email-abatuhanyigitt%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="urasdogu2016@outlook.com">
+    <img src="https://img.shields.io/badge/Email-urasdogu2016@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -43,23 +43,15 @@
 ---
 ## 🛠 **My Skill Set** & 📊 **GitHub Stats**
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse; border-spacing:0; width:100%;">
-<tr>
+<div align="center" style="border:1px solid #ddd; border-radius:8px; padding:10px; width:150px;">
+  <h3 style="font-family:Arial, sans-serif;">
+    🖌 Frontend
+  </h3>
 
-<td valign="top" width="65%" style="padding:0;">
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse; border-spacing:0; width:100%;">
-<tr>
-
-<td valign="top" width="33%" align="center">
-<h3><strong>🖌 Frontend</strong></h3>
-<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50" style="margin:8px;">
-<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" style="margin:8px;">
-<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50" style="margin:8px;">
-<img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50" style="margin:8px;">
-<img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" height="50" style="margin:8px;">
-</td>
-
-<td valign="top" width="33%" align="center">
-<h3><strong>⚙ Backend</strong></h3>
-<img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" height="50" style="margin:8px;">
-<img src="https://profilinator.rishav.dev/skills-assets/nodejs-orig>
+  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50" style="margin:8px;">
+  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50" style="margin:8px;">
+  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" style="margin:8px;">
+  <img src="https://profilinator.rishav.dev/skills-assets/cpp-original.svg" height="50" style="margin:8px;">
+  <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" height="50" style="margin:8px;">
+  <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" height="50" style="margin:8px;">
+</div>
