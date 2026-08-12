@@ -28,8 +28,8 @@
     <img src="https://img.shields.io/badge/Site-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="UDF"/>
   </a>
   &nbsp;&nbsp;
-  <a href="urasdogu2016@outlook.com">
-    <img src="https://img.shields.io/badge/Email-urasdogu2016@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="urasdogu1905@gmail.com">
+    <img src="https://img.shields.io/badge/Email-urasdogu1905@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
