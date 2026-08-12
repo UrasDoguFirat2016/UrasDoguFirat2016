@@ -24,7 +24,7 @@
 
 <h3 align="center">📬 Connect with Me</h3>
 <p align="center">
-  <a href="https://sites.google.com/view/fransa-com" target="_blank">
+  <a href="urasdogufirat.com" target="_blank">
     <img src="https://img.shields.io/badge/Site-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="UDF"/>
   </a>
   &nbsp;&nbsp;
